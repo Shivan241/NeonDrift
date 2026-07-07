@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="NEONDRIFT Banner">
+  <img src="banner.png" alt="NEONDRIFT Banner" width="100%">
 </p>
 
 <h1 align="center">🚗 NEONDRIFT</h1>
