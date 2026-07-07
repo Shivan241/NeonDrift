@@ -55,35 +55,28 @@ Just open the game and race.
 ---
 
 # 📸 Screenshots
-
 ## Main Menu
 
 <p align="center">
-<img src="assets/main-menu.png" width="900">
+  <img src="main-menu.png" width="900">
 </p>
-
----
 
 ## Gameplay
 
 <p align="center">
-<img src="assets/gameplay.png" width="900">
+  <img src="gameplay.png" width="900">
 </p>
-
----
 
 ## Garage
 
 <p align="center">
-<img src="assets/garage.png" width="900">
+  <img src="garage.png" width="900">
 </p>
-
----
 
 ## Game Over
 
 <p align="center">
-<img src="assets/gameover.png" width="900">
+  <img src="gameover.png" width="900">
 </p>
 
 ---
