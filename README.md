@@ -109,7 +109,7 @@ Just open the game and race.
 | ← → / A D | Steering |
 | Shift | Nitro |
 | C | Change Camera |
-| Esc | Pause |
+| Space | Nitro |
 
 ---
 
