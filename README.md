@@ -216,9 +216,9 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Developer
 
-### Aditya Pal
+### Shivan Shukla
 
-💼 Computer Science Engineering (IoT)
+💼 Computer Science Engineering 
 
 🌐 GitHub
 
