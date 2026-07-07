@@ -73,13 +73,7 @@ Just open the game and race.
   <img src="garage.png" width="900">
 </p>
 
-## Game Over
 
-<p align="center">
-  <img src="gameover.png" width="900">
-</p>
-
----
 
 # 🎯 Gameplay
 
